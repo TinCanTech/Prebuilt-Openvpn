@@ -65,7 +65,8 @@ t_client.rc
 t_client_ips.rc
 tests/unit_tests/**/*_testdriver
 
-src/openvpn/openvpn
+# src/openvpn/openvpn
+
 include/openvpn-plugin.h
 config-version.h
 nbproject
